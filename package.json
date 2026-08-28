@@ -1,0 +1,13 @@
+{
+  "name": "session-fixation-demo",
+  "version": "1.0.0",
+  "description": "A deliberate session fixation vulnerability demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3"
+  }
+}
